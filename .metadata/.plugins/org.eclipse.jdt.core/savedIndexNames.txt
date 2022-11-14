@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Dinho\OneDrive\Documentos\Meus Projetos\Microserviços\Microservices\.metadata\.plugins\org.eclipse.jdt.core
+3024357481.index
+1650449417.index
